@@ -124,6 +124,7 @@ nav .logo {
 }
 
 nav ul {
+    list-style-type: none;
     position: absolute;
     background-color: var(--section-background);
     margin: 0;
